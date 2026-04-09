@@ -1,0 +1,24 @@
+{
+  "dataset": {
+    "name": "darshan8950/phishing_url_classification + custom examples",
+    "n_samples": 100025,
+    "n_train": 80020,
+    "n_test": 20005
+  },
+  "model": {
+    "type": "GradientBoosting + TF-IDF + Advanced Features"
+  },
+  "metrics": {
+    "accuracy": 1.0,
+    "precisionWeighted": 1.0,
+    "recallWeighted": 1.0,
+    "f1Weighted": 1.0,
+    "aucRoc": 1.0
+  },
+  "confusionMatrix": {
+    "trueNegative": 10002,
+    "falsePositive": 0,
+    "falseNegative": 0,
+    "truePositive": 10003
+  }
+}
