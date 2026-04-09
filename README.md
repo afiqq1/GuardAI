@@ -268,9 +268,9 @@ GuardAI/
 
 | Role | Name | Name	Responsibilities |
 |--------|-------|-------|
-| a | a | ML models, training pipelines |
+| a | Norazlin Binti Hassana | ML models, training pipelines |
 | a | Afiq Aiman Bin Abd Rasid | UI/UX, React components |
-| a | a | API routes, deployment |
+| a | Nur Amanina Binti Mokhriz | API routes, deployment |
 
 ##🔮 Future Improvements
 
