@@ -269,11 +269,9 @@ GuardAI/
 
 | Role | Name | Name	Responsibilities |
 |--------|-------|-------|
-| Documentation & Communication Strategist  | Norazlin Binti Hassana | Project documentation, narrative, technical writing, market research, competitive 
-analysis, ensuring submission completeness per organiser checklist  |
+| Documentation & Communication Strategist  | Norazlin Binti Hassana | Project documentation, narrative, technical writing, market research, competitive analysis, ensuring submission completeness per organiser checklist  |
 | Full Stack Developer | Afiq Aiman Bin Abd Rasid | End-to-end system development: ML model training (Python/Scikit-learn), Next.js API routes, React UI components, Tesseract.js OCR integration, GitHub repository management, system architecture design  |
-| Presentation & Visual Designer | Nur Amanina Binti Mokhriz | Slide deck design and visual communication, pitch narrative structure, brand identity for 
-GuardAI, visual assets for demo walkthrough, presentation rehearsal coordination  |
+| Presentation & Visual Designer | Nur Amanina Binti Mokhriz | Slide deck design and visual communication, pitch narrative structure, brand identity for GuardAI, visual assets for demo walkthrough, presentation rehearsal coordination  |
 
 ##🔮 Future Improvements
 
@@ -302,7 +300,7 @@ GuardAI, visual assets for demo walkthrough, presentation rehearsal coordination
 ## 📄 License
 - **MIT License - Copyright (c) 2026 GuardAI Team**
 
-## 📄 Special Thanks
+## Special Thanks
 
 <div align="center">
 ⭐ If this project helped you, please give it a star! ⭐
