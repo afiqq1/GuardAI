@@ -198,13 +198,13 @@ Open your browser and navigate to: http://localhost:3000
 
 ### Malicious URL Examples
 
-| Example |
-|-------|
-| https://maybank-verify.xyz/login |
-| http://paypal-secure.top/confirm | 
-| https://appleid-verify.icu/secure |
-| http://192.168.1.100/paypal/login.php |
-| https://bit.ly/3x7Kp9L |
+| Type | Example |
+|-------|-------|
+| Bank Phishing | https://maybank-verify.xyz/login |
+| Payment Phishing | http://paypal-secure.top/confirm | 
+| Credential Harvesting | https://appleid-verify.icu/secure |
+| Local Network Phishing | http://192.168.1.100/paypal/login.php |
+| URL Shortened Link | https://bit.ly/3x7Kp9L |
 
 ### Safe Examples (Should Pass)
 
@@ -269,25 +269,26 @@ GuardAI/
 
 | Role | Name | Name	Responsibilities |
 |--------|-------|-------|
-| a | Norazlin Binti Hassana | ML models, training pipelines |
-| a | Afiq Aiman Bin Abd Rasid | UI/UX, React components |
-| a | Nur Amanina Binti Mokhriz | API routes, deployment |
+| Documentation & Communication Strategist  | Norazlin Binti Hassana | Project documentation, narrative, technical writing, market research, competitive 
+analysis, ensuring submission completeness per organiser checklist  |
+| Full Stack Developer | Afiq Aiman Bin Abd Rasid | End-to-end system development: ML model training (Python/Scikit-learn), Next.js API routes, React UI components, Tesseract.js OCR integration, GitHub repository management, system architecture design  |
+| Presentation & Visual Designer | Nur Amanina Binti Mokhriz | Slide deck design and visual communication, pitch narrative structure, brand identity for 
+GuardAI, visual assets for demo walkthrough, presentation rehearsal coordination  |
 
 ##🔮 Future Improvements
 
 ### Short-term (1-3 months)
 
-- **WhatsApp Business API integration**
-- **Browser extension for real-time protection**
-- **SMS forwarding number (15888)**
-- **Mobile app with push notifications**
+- **WhatsApp Business API for in-chat scanning without leaving WhatsApp**
+- **Browser extension for real-time URL checking while browsing**
+- **Mobile-responsive PWA (Progressive Web App) version for smartphone users**
 
 ### Long-term (6-12 months)
 
-- **Real-time threat intelligence feed**
-- **Community reporting system**
-- **Deep learning models (BERT/Transformer)**
-- **Multi-language support**
+- **BERT / Transformer model upgrade for higher detection accuracy on evolving scam language**
+- **Live threat intelligence integration with MCMC and PDRM scam databases**
+- **Community crowdsourcing system to report and validate new scam patterns**
+- **Multi-language model support: Bahasa Malaysia, Mandarin, Tamil, Tagalog**
 
 ## 🙏 Acknowledgments
 
@@ -301,7 +302,7 @@ GuardAI/
 ## 📄 License
 - **MIT License - Copyright (c) 2026 GuardAI Team**
 
-
+## 📄 Special Thanks
 
 <div align="center">
 ⭐ If this project helped you, please give it a star! ⭐
