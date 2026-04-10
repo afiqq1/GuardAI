@@ -273,7 +273,7 @@ GuardAI/
 | Full Stack Developer | Afiq Aiman Bin Abd Rasid | End-to-end system development: ML model training (Python/Scikit-learn), Next.js API routes, React UI components, Tesseract.js OCR integration, GitHub repository management, system architecture design  |
 | Presentation & Visual Designer | Nur Amanina Binti Mokhriz | Slide deck design and visual communication, pitch narrative structure, brand identity for GuardAI, visual assets for demo walkthrough, presentation rehearsal coordination  |
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 ### Short-term (1-3 months)
 
