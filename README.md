@@ -254,7 +254,7 @@ GuardAI/
 └── package.json                  # Node dependencies
 ```
 
-### 📚 Dataset Sources
+## 📚 Dataset Sources
 
 | Dataset	Source | License	Size |
 |--------|-------|
@@ -265,7 +265,7 @@ GuardAI/
 |  URL Phishing Dataset	HuggingFace	Apache 2.0 | 50,000 URLs |
 	
 	
-### 👥 Team
+## 👥 Team
 
 | Role | Name | Name	Responsibilities |
 |--------|-------|-------|
