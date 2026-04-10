@@ -1,3 +1,4 @@
+
 # 🛡️ GuardAI - AI-Powered Scam & Fraud Detection Assistant
 
 [![Hackathon](https://img.shields.io/badge/Hackathon-Malaysia_2026-red)](https://github.com/afiqq1/GuardAI)
@@ -24,14 +25,14 @@
 
 ## 🎯 Problem Statement
 
-**Malaysians lost over RM1.2 billion to scams in 2025** (Source: MCMC/Bukit Aman). Common scams include:
-- ❌ Macau Scams (PDRM/court impersonation)
-- ❌ Bank Phishing (Maybank, CIMB, Public Bank)
-- ❌ E-commerce Fraud (Shopee, Lazada)
-- ❌ Investment/Crypto Scams
-- ❌ Love/Romance Scams
-- ❌ Parcel/Customs Scams
-
+**Malaysians lost over RM2.7 billion to scams in 2025** (Source: MCMC/Bukit Aman). Scam trends and impacts include::
+- ❌ Online scam losses hit RM2.7 billion, with 67,735 cases reported — a 93.89% year-on-year surge
+- ❌ 62% of victims suffered severe mental distress, according to the Global Anti-Scam Alliance (2025 State of Scams in Malaysia)
+- ❌ 73% of Malaysian adults fell victim to a scam in 2024, despite 75% believing they could detect one
+- ❌ Scam calls rose by 14.37% in 2025 (Whoscall Annual Report 2026)
+- ❌ 70% of victims never report to authorities, placing true annual losses around RM54 billion (≈3% of GDP)
+- ❌ Over 750 Malaysians were rescued from scam compounds in Myanmar and Cambodia
+  
 **GuardAI** is an intelligent system that protects users by analyzing messages, emails, and links in real-time, providing clear risk scores and actionable insights.
 
 ## 💡 Solution Overview
